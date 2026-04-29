@@ -83,8 +83,8 @@ Full smart garage system with:
 
 ## 📫 Contact
 - 📧 Email: marwanalaa2052006@gmail.com  
-- 💻 GitHub: https://github.com/marwan-a-rasheid1 :contentReference[oaicite:0]{index=0}  
-- 📘 Facebook: https://www.facebook.com/share/18tKbrJJAV/  
+- 💻 GitHub: https://github.com/marwan-a-rasheid1   
+- 📘 Facebook: https://www.facebook.com/marwan.a.rasheid  
 - 📸 Instagram: https://www.instagram.com/marwan.a.rasheid.1  
 - ✈️ Telegram: https://t.me/marwan_alaa_111  
 
